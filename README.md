@@ -43,6 +43,6 @@ We get not so good performance. I think the main reason is the size of the data.
 
 3. Cross-validation.
 
-## You can see the full version of the solution [here](https://github.com/bezzonov/Aramco/blob/main/solution/Aramco_task.ipynb)
+## You can see the full version of the solution [here](https://github.com/bezzonov/Aramco/blob/main/notebooks/Aramco_task.ipynb)
 Thank you very much for the interesting test assignment!
 
